@@ -2,7 +2,7 @@
 
 
 
-Test 2 - Google
+Test 1 - Google
 Otwarcie strony Google.
 Asercja 1: Sprawdzenie, czy na stronie jest dostępny przycisk odrzucenia ciasteczek.
 Krok 2: Kliknięcie przycisku odrzucenia ciasteczek.
